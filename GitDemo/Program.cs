@@ -13,6 +13,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 //hh
+//anu
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
